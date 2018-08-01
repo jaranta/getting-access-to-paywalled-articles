@@ -1,6 +1,6 @@
 I wrote this to explain some things that are often invisible to people who don’t publish in peer-reviewed journals as corresponding authors. My primary purpose for putting up this post is to share that even in the current, imperfect system, there are things that anyone can do to more easily access paywalled papers. Scroll down if you don’t want the preamble.
 
-# First some facts:
+# First some facts
 
 The $35 for a journal article goes to the publisher, not the author
 
@@ -16,7 +16,7 @@ Preprints are great but are not accepted in all fields nor by all journals.
 
 Some fields (for example, physics, mathematics, computer science, and economics) have a long tradition of preprints. A preprint is a version of a manuscript that has often not yet by peer-reviewed nor published. I love the preprint model and have used it (for example, I am lead author on this preprint) but preprints are not a full solution to the problem of paywalled articles, for two reasons. First, preprints have not yet been peer-reviewed. Peer review is not perfect and it will not catch all problems but it does help improve papers. This helps people who are not scientists in that field have some confidence that the conclusions of the paper are valid. This may be especially important for things like randomized controlled trials that can change clinical practice. Second, preprints are not accepted in all fields nor by all journals. This means that, in some fields, by putting a manuscript out as a preprint, you can no longer submit it to a large number of journals. I think this is terrible and I have personally made a point to talk to editors about allowing manuscripts that have been already disseminated as preprints, but right now this is just a reality of academic science.
 
-My view:
+### My view
 
 I prefer the open access model and I try to publish open access whenever I can. Especially when all or part of research is publicly-funded, I think its results should be available to all members of the public, not just people with institutional access. I am increasingly taking advantage of methods to put my paywalled papers online. My institution now has a repository, so I am slowly figuring out which versions of which of my papers can be put there. Different publishers have slightly different rules, so this is not always as straightforward as I would like. Despite my efforts, I can’t always manage an open access article processing fee for every paper, nor can many other academics, so with that in mind, I offer:
 
@@ -56,5 +56,11 @@ If you put the title of the paper into Google Scholar, you should find it. The r
 ## Other methods
 
 I do not advocate these methods, especially not as a first line approach. This is because they are not necessarily legal–though they may well be ethical–and perhaps more importantly, I think they take away from libraries at a time when libraries need all the support they can get. However, for people’s information, other ways to access articles include tweeting a request for an article with the hashtag #icanhazpdf (once someone sends you the pdf, it is good practice to delete your tweet) or the group of pirating sites SciHub.
+
+# Contributing to this guide
+
+If you find something that is wrong on this page just have an idea that should be added, you can easily add it to his guide. Either fork this guide and create a pull request on Github or if you have no idea what that means, just click [here and add an Issue](https://github.com/jaranta/getting-access-to-paywalled-articles/issues) where you describe what you want changed and I will make the changes for you.
+
+# License
 
 This guide is based on [Holly Witteman's post](http://holly.witteman.ca/index.php/2017/12/11/getting-access-to-paywalled-papers/) and is licensed under CC-BY-SA 2.0.
